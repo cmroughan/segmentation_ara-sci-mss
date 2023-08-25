@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0028.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3024" HEIGHT="4032" PHYSICAL_IMG_NR="28" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3024" HEIGHT="4032">
+                      
+          <TextBlock HPOS="1260" VPOS="660" WIDTH="1290" HEIGHT="2738" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2499 812 2368 747 2099 739 1736 711 1527 745 1501 660 1339 681 1260 1027 1350 1629 1316 1687 1311 1875 1348 2063 1345 2217 1388 2650 1365 2793 1377 3020 1324 3120 1313 3329 1456 3398 1843 3359 1952 3391 2191 3364 2535 3280 2537 3037 2546 2605 2550 2198 2533 1529 2526 955 2518 822"/></Shape></TextBlock><TextBlock HPOS="692" VPOS="1389" WIDTH="597" HEIGHT="607" ID="path2" TAGREFS="BT7"><Shape><Polygon POINTS="757 1494 760 1452 802 1449 929 1389 1082 1394 1214 1482 1286 1612 1289 1766 1246 1862 1247 1886 1197 1928 1074 1996 904 1984 800 1924 760 1926 750 1866 692 1751 697 1584"/></Shape></TextBlock><TextBlock HPOS="750" VPOS="2088" WIDTH="599" HEIGHT="598" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="849 2158 885 2096 912 2114 1030 2088 1149 2104 1216 2108 1232 2158 1311 2244 1349 2394 1304 2538 1192 2651 1037 2686 922 2646 862 2639 855 2594 774 2489 750 2358 787 2213"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

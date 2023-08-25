@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0013.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3024" HEIGHT="4032" PHYSICAL_IMG_NR="13" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3024" HEIGHT="4032">
+                      
+          <TextBlock HPOS="565" VPOS="695" WIDTH="1311" HEIGHT="2600" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="1839 1072 1857 716 1655 695 1311 713 695 725 595 770 604 1229 607 1679 571 1930 595 2075 571 2649 595 2715 565 2887 598 3232 779 3262 915 3250 1139 3271 1459 3268 1483 3295 1558 3265 1691 3286 1873 3232 1876 2525 1866 1809 1863 1619 1725 1592 1534 1610 1359 1607 1341 1622 1181 1610 1175 1501 1172 1413 1185 1105 1275 1127 1483 1100"/></Shape></TextBlock><TextBlock HPOS="1161" VPOS="1103" WIDTH="1002" HEIGHT="530" ID="path2" TAGREFS="BT7"><Shape><Polygon POINTS="1655 1268 1749 1147 1912 1105 2066 1158 2163 1304 2156 1494 2006 1619 1845 1633 1780 1604 1736 1595 1731 1566 1662 1496 1648 1443 1619 1528 1523 1601 1411 1619 1366 1615 1344 1626 1306 1597 1223 1548 1172 1445 1161 1337 1199 1214 1293 1127 1460 1103 1570 1156"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

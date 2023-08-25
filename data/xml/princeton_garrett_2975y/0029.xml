@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0029.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3024" HEIGHT="4032" PHYSICAL_IMG_NR="29" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3024" HEIGHT="4032">
+                      
+          <TextBlock HPOS="2552" VPOS="113" WIDTH="60" HEIGHT="66" ID="path1" TAGREFS="BT8"><Shape><Polygon POINTS="2552 113 2552 179 2601 177 2612 120"/></Shape></TextBlock><TextBlock HPOS="389" VPOS="703" WIDTH="1409" HEIGHT="2787" ID="path2" TAGREFS="BT5"><Shape><Polygon POINTS="1708 720 1194 703 946 739 871 775 545 760 434 792 389 967 412 1059 408 1621 470 1717 440 2012 466 2330 463 2781 434 2930 474 2979 519 3443 1128 3445 1170 3490 1224 3443 1559 3445 1636 3477 1783 3423 1785 3028 1762 2509 1798 2003 1781 1805 1666 1828 1606 1807 1442 1839 1348 1807 1136 1837 1153 1615 1093 1341 1115 1153 1452 1140 1670 1119 1749 1081"/></Shape></TextBlock><TextBlock HPOS="1119" VPOS="504" WIDTH="867" HEIGHT="1335" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="1935 604 1954 504 1980 508 1986 656 1958 677 1753 1318 1794 1409 1800 1486 1826 1510 1824 1585 1785 1604 1706 1741 1589 1813 1484 1832 1450 1839 1431 1824 1286 1783 1164 1634 1119 1589 1130 1550 1151 1548 1147 1465 1168 1373 1138 1341 1175 1277 1213 1277 1290 1217 1294 1198 1384 1172 1535 1164 1621 1198"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

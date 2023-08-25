@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0019.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3024" HEIGHT="4032" PHYSICAL_IMG_NR="19" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3024" HEIGHT="4032">
+                      
+          <TextBlock HPOS="423" VPOS="677" WIDTH="1373" HEIGHT="2770" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="846 727 825 677 763 714 498 695 423 965 466 1085 453 1559 483 2165 453 2358 495 3421 1059 3447 1773 3421 1785 2161 1232 2174 1246 2078 1178 2003 1116 1790 1144 1535 1254 1511 1782 1478 1796 680"/></Shape></TextBlock><TextBlock HPOS="1123" VPOS="1410" WIDTH="712" HEIGHT="801" ID="path2" TAGREFS="BT7"><Shape><Polygon POINTS="1570 1474 1659 1510 1728 1562 1756 1566 1773 1623 1827 1715 1820 1751 1835 1877 1784 2016 1672 2117 1609 2140 1640 2178 1612 2203 1543 2211 1471 2169 1323 2139 1204 2037 1170 1968 1149 1977 1140 1946 1151 1893 1123 1822 1143 1744 1126 1741 1127 1708 1173 1665 1195 1620 1171 1604 1185 1565 1231 1563 1327 1496 1435 1466 1501 1466 1535 1410 1552 1411"/></Shape></TextBlock><TextBlock HPOS="2510" VPOS="127" WIDTH="50" HEIGHT="86" ID="path3" TAGREFS="BT8"><Shape><Polygon POINTS="2510 161 2541 213 2560 202 2560 127"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

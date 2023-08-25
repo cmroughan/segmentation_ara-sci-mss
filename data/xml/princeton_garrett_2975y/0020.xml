@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0020.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3024" HEIGHT="4032" PHYSICAL_IMG_NR="20" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3024" HEIGHT="4032">
+                      
+          <TextBlock HPOS="1275" VPOS="637" WIDTH="1328" HEIGHT="2740" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2558 746 2220 661 1767 637 1377 646 1338 918 1353 1145 1347 1241 1359 1311 1323 1567 1353 1981 1323 2425 1353 3207 1275 3377 1429 3328 2036 3322 2329 3295 2600 3216 2603 2413 2594 1752 2585 1293"/></Shape></TextBlock><TextBlock HPOS="622" VPOS="103" WIDTH="125" HEIGHT="126" ID="path2" TAGREFS="BT8"><Shape><Polygon POINTS="646 103 622 176 639 229 680 224 747 179 741 120"/></Shape></TextBlock><TextBlock HPOS="885" VPOS="1070" WIDTH="459" HEIGHT="441" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="951 1407 946 1447 983 1453 1058 1503 1195 1511 1290 1441 1316 1431 1319 1402 1344 1310 1338 1232 1332 1175 1313 1140 1287 1144 1204 1075 1088 1070 979 1119 949 1158 915 1165 885 1273 912 1293 921 1358"/></Shape></TextBlock><TextBlock HPOS="604" VPOS="2558" WIDTH="669" HEIGHT="616" ID="path4" TAGREFS="BT7"><Shape><Polygon POINTS="604 2653 624 2664 731 2581 893 2558 1021 2594 1117 2684 1156 2690 1154 2773 1184 2818 1215 2841 1245 2843 1245 2857 1273 2891 1217 2950 1147 3000 1058 3126 909 3174 764 3155 667 3096 619 3036"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

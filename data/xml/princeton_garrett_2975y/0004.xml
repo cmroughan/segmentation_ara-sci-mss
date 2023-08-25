@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0004.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3024" HEIGHT="4032" PHYSICAL_IMG_NR="4" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3024" HEIGHT="4032">
+                      
+          <TextBlock HPOS="1319" VPOS="689" WIDTH="1337" HEIGHT="2706" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2603 795 2507 764 2161 742 2105 695 1961 689 1743 733 1659 726 1624 689 1387 742 1319 898 1366 1035 1350 1169 1378 1222 1366 1665 1428 1765 1868 1765 1836 1843 1465 1840 1397 1902 1366 2451 1412 2734 1375 3380 2045 3395 2404 3370 2650 3308 2650 2691 2656 2067 2641 995 2619 817"/></Shape></TextBlock><TextBlock HPOS="888" VPOS="1196" WIDTH="484" HEIGHT="1095" ID="path2" TAGREFS="BT7"><Shape><Polygon POINTS="1067 1290 1039 1215 1126 1196 1318 1647 1342 1654 1372 1735 1342 1757 1338 1859 1309 1898 1181 2283 1156 2291 1102 2256 1115 2210 956 1875 927 1881 892 1824 936 1809 930 1768 888 1752 893 1702 949 1698 1093 1279"/></Shape></TextBlock><TextBlock HPOS="937" VPOS="2393" WIDTH="485" HEIGHT="1502" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="1152 3804 1187 3895 1208 3891 1228 3805 1308 3776 1355 3783 1396 3725 1377 3712 1422 3623 1407 3470 1347 3410 1346 3351 1295 3328 1286 3360 1250 3356 1213 3231 1224 3205 1211 3159 1226 3067 1338 3008 1375 2999 1372 2961 1411 2864 1396 2743 1318 2644 1316 2611 1258 2603 1204 2499 1230 2469 1223 2449 1189 2451 1182 2393 1148 2398 1154 2456 1137 2466 1148 2490 1096 2607 1079 2566 1036 2590 1049 2641 962 2732 937 2900 1023 3039 1141 3071 1159 3162 1107 3168 1139 3254 1165 3248 1139 3351 1057 3381 973 3384 975 3427 993 3440 943 3574 975 3694 1025 3757 993 3807 1012 3826 1086 3794"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>
