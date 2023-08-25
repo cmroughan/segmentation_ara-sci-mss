@@ -180,12 +180,12 @@ for svgFile in svg_list:
                 try:
                     x, y = extractTwoCoords(svgCoord)
                 except:
-                    if segments[i-1][0] == 'V':
-                        y = float(svgCoord.split()[1])
+                    if segments[i-1].strip()[0] == 'V':
+                        y = float(svgCoord.strip())
                         y = round(y*toMultiply)
                         x = coords[-1][0]
-                    elif segments[i-1][0] == 'H':  
-                        x = float(svgCoord.split()[1])
+                    elif segments[i-1].strip()[0] == 'H':  
+                        x = float(svgCoord.strip())
                         x = round(x*toMultiply)
                         y = coords[-1][1] 
                 coords.append([x, y])
