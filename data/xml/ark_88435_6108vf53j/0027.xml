@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0027.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="6727" HEIGHT="4757" PHYSICAL_IMG_NR="27" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="6727" HEIGHT="4757">
+                      
+          <TextBlock HPOS="4503" VPOS="796" WIDTH="145" HEIGHT="79" ID="path1" TAGREFS="BT8"><Shape><Polygon POINTS="4503 811 4531 867 4607 875 4648 814 4627 796 4538 796"/></Shape></TextBlock><TextBlock HPOS="3712" VPOS="928" WIDTH="1823" HEIGHT="3165" ID="path2" TAGREFS="BT5"><Shape><Polygon POINTS="5520 936 5128 928 3742 946 3717 1002 3712 1119 3735 2448 3753 3707 3760 4053 4055 4058 4103 4070 4447 4065 4696 4070 4813 4078 4904 4060 4942 4093 4991 4065 5245 4055 5281 4070 5306 4053 5520 4030 5535 3392 5530 2329 5530 1508"/></Shape></TextBlock><TextBlock HPOS="3728" VPOS="4149" WIDTH="188" HEIGHT="132" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="3728 4172 3752 4231 3828 4281 3913 4219 3916 4159 3822 4149"/></Shape></TextBlock><TextBlock HPOS="2200" VPOS="826" WIDTH="136" HEIGHT="81" ID="path4" TAGREFS="BT8"><Shape><Polygon POINTS="2200 827 2211 899 2305 907 2336 856 2328 826"/></Shape></TextBlock><TextBlock HPOS="558" VPOS="419" WIDTH="185" HEIGHT="113" ID="path5" TAGREFS="BT8"><Shape><Polygon POINTS="715 419 565 435 558 532 732 529 743 475"/></Shape></TextBlock><TextBlock HPOS="1346" VPOS="954" WIDTH="1788" HEIGHT="1390" ID="path6" TAGREFS="BT5"><Shape><Polygon POINTS="3126 962 1986 954 1346 968 1346 1870 1353 2325 1804 2344 3132 2336 3134 1483"/></Shape></TextBlock><TextBlock HPOS="2785" VPOS="1041" WIDTH="209" HEIGHT="75" ID="path7" TAGREFS="BT6"><Shape><Polygon POINTS="2994 1059 2993 1103 2970 1116 2785 1110 2819 1053 2936 1041 2990 1046"/></Shape></TextBlock><TextBlock HPOS="683" VPOS="2331" WIDTH="2461" HEIGHT="1750" ID="path8" TAGREFS="BT9"><Shape><Polygon POINTS="3102 2360 688 2331 683 4072 3144 4081"/></Shape></TextBlock><TextBlock HPOS="612" VPOS="2363" WIDTH="74" HEIGHT="75" ID="path9" TAGREFS="BT6"><Shape><Polygon POINTS="612 2391 625 2427 678 2438 686 2423 686 2370 636 2363"/></Shape></TextBlock><TextBlock HPOS="579" VPOS="2667" WIDTH="83" HEIGHT="100" ID="path10" TAGREFS="BT6"><Shape><Polygon POINTS="579 2688 600 2767 655 2756 662 2706 647 2667 594 2668"/></Shape></TextBlock><TextBlock HPOS="587" VPOS="3514" WIDTH="78" HEIGHT="155" ID="path11" TAGREFS="BT6"><Shape><Polygon POINTS="587 3546 605 3634 655 3669 665 3647 665 3543 615 3514"/></Shape></TextBlock><TextBlock HPOS="608" VPOS="3872" WIDTH="85" HEIGHT="89" ID="path12" TAGREFS="BT6"><Shape><Polygon POINTS="681 3872 636 3890 608 3932 618 3958 675 3961 693 3937 693 3885"/></Shape></TextBlock><TextBlock HPOS="4000" VPOS="1617" WIDTH="103" HEIGHT="117" ID="path13" TAGREFS="BT6"><Shape><Polygon POINTS="4103 1629 4074 1617 4000 1672 4000 1729 4035 1734 4062 1690 4103 1674"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>
