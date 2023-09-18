@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0053.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3000" HEIGHT="2312" PHYSICAL_IMG_NR="53" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="2312">
+                      
+          <TextBlock HPOS="1640" VPOS="312" WIDTH="930" HEIGHT="1714" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2559 341 2496 318 1965 324 1786 319 1713 312 1661 326 1643 435 1653 976 1654 1631 1640 1955 1654 1988 1736 2026 1770 2024 1793 1982 2124 2008 2250 1977 2443 1973 2462 2004 2488 2008 2508 1959 2539 1935 2557 1246 2570 450"/></Shape></TextBlock><TextBlock HPOS="1585" VPOS="1683" WIDTH="63" HEIGHT="64" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="1645 1683 1648 1724 1617 1747 1585 1736 1595 1693 1615 1706"/></Shape></TextBlock><TextBlock HPOS="449" VPOS="308" WIDTH="932" HEIGHT="1703" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="1381 357 1363 328 1135 354 985 342 939 363 586 331 563 308 492 353 463 756 484 766 480 1366 464 1384 449 1658 452 1927 500 1973 891 1995 904 2011 933 1995 1104 2006 1283 1993 1362 1961 1363 1794 1372 1397 1376 816"/></Shape></TextBlock><TextBlock HPOS="268" VPOS="1084" WIDTH="308" HEIGHT="314" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="345 1084 288 1095 268 1170 326 1241 417 1339 461 1369 468 1398 496 1397 548 1368 555 1343 576 1326 552 1304 506 1299 465 1236 373 1150 367 1115"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

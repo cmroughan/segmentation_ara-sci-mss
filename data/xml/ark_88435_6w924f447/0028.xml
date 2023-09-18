@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0028.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="1707" HEIGHT="2301" PHYSICAL_IMG_NR="28" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="1707" HEIGHT="2301">
+                      
+          <TextBlock HPOS="377" VPOS="310" WIDTH="630" HEIGHT="672" ID="path1" TAGREFS="BT7"><Shape><Polygon POINTS="506 354 481 340 467 353 473 376 420 435 377 538 385 659 436 758 524 837 631 868 729 862 789 834 781 887 801 936 840 973 915 982 981 951 1007 882 987 810 936 773 877 763 930 649 931 538 894 429 831 370 716 310 586 315"/></Shape></TextBlock><TextBlock HPOS="480" VPOS="400" WIDTH="1089" HEIGHT="1549" ID="path2" TAGREFS="BT5"><Shape><Polygon POINTS="1533 400 1291 422 1142 417 1069 429 1040 462 1014 961 809 973 703 948 626 962 551 942 492 1284 499 1598 504 1887 480 1894 486 1913 569 1924 1118 1949 1405 1947 1522 1920 1535 1563 1569 1529 1537 1510 1556 991"/></Shape></TextBlock><TextBlock HPOS="466" VPOS="1915" WIDTH="145" HEIGHT="79" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="611 1921 594 1969 525 1984 493 1994 466 1982 488 1919 529 1915 556 1929 572 1921"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

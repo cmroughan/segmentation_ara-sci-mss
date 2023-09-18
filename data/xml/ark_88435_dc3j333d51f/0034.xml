@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0034.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3921" HEIGHT="5492" PHYSICAL_IMG_NR="34" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3921" HEIGHT="5492">
+                      
+          <TextBlock HPOS="249" VPOS="610" WIDTH="2441" HEIGHT="4170" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2669 751 2160 656 1434 659 1361 624 516 656 403 610 340 656 284 838 288 2550 249 3248 295 4682 431 4717 1021 4717 1115 4780 1764 4710 2066 4752 2536 4766 2648 4696 2683 3170 2690 782"/></Shape></TextBlock><TextBlock HPOS="2651" VPOS="3788" WIDTH="695" HEIGHT="575" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="3346 4142 3290 4345 3191 4345 3149 4363 3055 4265 2953 4293 2890 4251 2883 4187 2977 4107 2865 4065 2774 4009 2753 3928 2651 3865 2697 3788 2900 3910 2977 3910 2988 3952 3100 3938 3083 4023 3181 4079 3290 4103"/></Shape></TextBlock><TextBlock HPOS="333" VPOS="4721" WIDTH="263" HEIGHT="206" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="361 4763 333 4899 396 4927 459 4903 519 4920 596 4861 565 4745 491 4721 431 4770"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

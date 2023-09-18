@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0026.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="1697" HEIGHT="2294" PHYSICAL_IMG_NR="26" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="1697" HEIGHT="2294">
+                      
+          <TextBlock HPOS="458" VPOS="361" WIDTH="1074" HEIGHT="1595" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="1517 430 1500 409 1410 404 961 407 942 378 851 413 778 398 715 379 677 396 595 361 522 382 516 608 504 622 487 671 500 689 532 708 502 852 467 887 470 917 508 925 484 972 510 1159 484 1224 493 1338 476 1536 508 1591 458 1718 473 1745 520 1750 474 1871 494 1888 667 1926 859 1944 1136 1931 1366 1956 1494 1919 1507 1783 1506 1128 1532 642"/></Shape></TextBlock><TextBlock HPOS="470" VPOS="1886" WIDTH="113" HEIGHT="78" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="481 1888 470 1939 500 1964 552 1963 578 1949 583 1909 506 1912 503 1886"/></Shape></TextBlock><TextBlock HPOS="142" VPOS="1248" WIDTH="374" HEIGHT="301" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="142 1274 170 1248 216 1274 250 1260 269 1274 268 1304 331 1326 418 1370 478 1406 516 1445 480 1482 481 1500 412 1549 334 1535 304 1506 205 1466 173 1435 162 1409 205 1390 191 1373 220 1331 205 1320 208 1302 173 1286 152 1292"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

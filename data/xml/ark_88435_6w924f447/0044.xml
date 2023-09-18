@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0044.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="1713" HEIGHT="2277" PHYSICAL_IMG_NR="44" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="1713" HEIGHT="2277">
+                      
+          <TextBlock HPOS="488" VPOS="338" WIDTH="1067" HEIGHT="1512" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="1547 422 1515 385 1467 413 1431 399 1269 410 1207 394 1119 397 989 388 920 362 872 396 796 371 671 369 652 338 558 355 546 406 510 437 515 458 555 453 541 532 522 745 519 901 505 1066 488 1150 507 1238 490 1366 533 1393 516 1550 539 1725 692 1742 887 1756 884 1819 923 1841 1022 1835 1312 1850 1464 1842 1524 1808 1529 1357 1543 878 1550 573 1555 475"/></Shape></TextBlock><TextBlock HPOS="366" VPOS="304" WIDTH="133" HEIGHT="102" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="499 304 420 311 366 359 366 406 490 383"/></Shape></TextBlock><TextBlock HPOS="96" VPOS="637" WIDTH="331" HEIGHT="252" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="175 637 138 637 96 669 111 720 104 777 107 889 195 869 224 876 289 859 317 779 419 767 427 723 355 726 329 717 278 719 264 688 221 709 182 706"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

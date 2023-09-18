@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0018.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3000" HEIGHT="2322" PHYSICAL_IMG_NR="18" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="2322">
+                      
+          <TextBlock HPOS="1609" VPOS="238" WIDTH="1001" HEIGHT="1742" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2563 252 2492 240 2251 238 1901 258 1649 261 1616 286 1609 315 1611 457 1634 807 1612 844 1640 1117 1631 1166 1635 1465 1624 1491 1624 1582 1644 1616 1645 1860 1669 1980 1693 1970 1702 1943 1702 1943 1805 1964 1809 1963 1813 1962 2048 1954 2048 1954 2280 1937 2598 1896 2610 1868 2605 1600 2600 1271 2592 778 2569 268"/></Shape></TextBlock><TextBlock HPOS="1678" VPOS="1982" WIDTH="75" HEIGHT="70" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="1726 1982 1686 2014 1678 2036 1688 2052 1753 2047 1742 2010 1741 1982"/></Shape></TextBlock><TextBlock HPOS="377" VPOS="267" WIDTH="1008" HEIGHT="1825" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="1359 267 1039 292 883 284 471 284 426 321 403 607 426 1152 397 1490 377 1777 400 2092 687 2077 863 2092 1365 2046 1385 2004 1385 1217 1382 329"/></Shape></TextBlock><TextBlock HPOS="702" VPOS="2055" WIDTH="60" HEIGHT="55" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="702 2059 714 2110 759 2105 762 2075 737 2055"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

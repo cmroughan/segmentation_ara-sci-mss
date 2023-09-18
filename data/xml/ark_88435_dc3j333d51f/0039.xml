@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0039.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4130" HEIGHT="5427" PHYSICAL_IMG_NR="39" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4130" HEIGHT="5427">
+                      
+          <TextBlock HPOS="803" VPOS="439" WIDTH="200" HEIGHT="156" ID="path1" TAGREFS="BT8"><Shape><Polygon POINTS="803 439 821 573 986 595 1003 547 916 443"/></Shape></TextBlock><TextBlock HPOS="452" VPOS="204" WIDTH="178" HEIGHT="122" ID="path2" TAGREFS="BT8"><Shape><Polygon POINTS="508 226 452 326 591 308 630 265 586 204"/></Shape></TextBlock><TextBlock HPOS="1325" VPOS="557" WIDTH="2421" HEIGHT="4212" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="3739 709 3680 626 3486 667 3396 598 3282 650 3234 581 3154 629 2355 574 1971 647 1930 598 1653 619 1629 557 1425 702 1376 740 1383 1833 1363 1906 1356 2539 1397 2898 1352 3199 1390 3320 1345 3542 1401 3708 1328 3929 1366 4399 1328 4441 1325 4614 1425 4662 1750 4700 2175 4655 2203 4686 2379 4707 2725 4697 2774 4769 2829 4697 3161 4731 3438 4735 3676 4724 3728 4441 3721 3120 3739 2366 3746 1062"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

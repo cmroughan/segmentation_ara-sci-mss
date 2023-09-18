@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0050.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4968" HEIGHT="7200" PHYSICAL_IMG_NR="50" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4968" HEIGHT="7200">
+                      
+          <TextBlock HPOS="282" VPOS="748" WIDTH="3770" HEIGHT="5934" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="3998 773 3294 748 2764 773 2031 802 996 857 421 822 401 857 381 1471 381 1823 416 2085 352 2784 401 3596 337 3908 406 4736 347 4765 332 4854 396 5191 307 5216 307 5325 391 5424 332 5568 332 5692 431 5761 431 5845 372 5919 372 6152 282 6296 287 6474 327 6663 570 6682 827 6663 1243 6658 1996 6583 2447 6558 2967 6519 3557 6499 3824 6544 3908 6514 4052 6425 4032 5082 4017 3542 4002 1887"/></Shape></TextBlock><TextBlock HPOS="263" VPOS="3007" WIDTH="159" HEIGHT="211" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="395 3033 422 3104 336 3164 298 3218 263 3213 270 3104 301 3007"/></Shape></TextBlock><TextBlock HPOS="258" VPOS="6799" WIDTH="294" HEIGHT="298" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="542 6799 552 6945 445 7038 322 7097 287 7076 258 6950 455 6829"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

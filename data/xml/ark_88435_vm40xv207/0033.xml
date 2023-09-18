@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0033.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3000" HEIGHT="2322" PHYSICAL_IMG_NR="33" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="2322">
+                      
+          <TextBlock HPOS="1619" VPOS="318" WIDTH="879" HEIGHT="1714" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="1654 329 1719 318 2046 319 2461 329 2492 356 2498 1190 2496 1981 2050 2009 1954 2032 1645 1987 1619 1226 1634 386"/></Shape></TextBlock><TextBlock HPOS="2289" VPOS="765" WIDTH="57" HEIGHT="33" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="2290 782 2310 768 2342 765 2346 784 2319 798 2289 788"/></Shape></TextBlock><TextBlock HPOS="2508" VPOS="1650" WIDTH="268" HEIGHT="208" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="2508 1679 2577 1650 2604 1657 2640 1686 2711 1785 2776 1834 2773 1844 2693 1858 2642 1818 2538 1720"/></Shape></TextBlock><TextBlock HPOS="457" VPOS="316" WIDTH="921" HEIGHT="1741" ID="path4" TAGREFS="BT5"><Shape><Polygon POINTS="1362 323 967 345 557 316 514 342 510 732 476 792 510 827 508 1174 489 1254 495 1565 457 1652 485 1682 481 1961 599 1999 1135 2008 1197 2057 1216 2002 1287 1998 1353 1969 1365 1736 1368 977 1378 373"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

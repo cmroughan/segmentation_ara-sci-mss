@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0050.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4004" HEIGHT="5540" PHYSICAL_IMG_NR="50" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4004" HEIGHT="5540">
+                      
+          <TextBlock HPOS="258" VPOS="626" WIDTH="2460" HEIGHT="4178" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2675 706 2006 626 1577 626 816 626 411 699 319 822 276 1571 301 2743 301 3295 258 4240 295 4749 387 4786 1166 4755 1657 4804 2534 4774 2694 4719 2700 3338 2681 1282 2718 804"/></Shape></TextBlock><TextBlock HPOS="316" VPOS="4752" WIDTH="267" HEIGHT="290" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="338 4860 316 5000 358 5042 577 4920 583 4838 538 4752 444 4772 464 4863 401 4886"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

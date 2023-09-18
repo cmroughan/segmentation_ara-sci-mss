@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0039.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3000" HEIGHT="2321" PHYSICAL_IMG_NR="39" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="2321">
+                      
+          <TextBlock HPOS="1640" VPOS="336" WIDTH="872" HEIGHT="1675" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2489 353 2447 344 2036 343 1677 336 1640 371 1646 963 1648 1647 1658 1985 1738 2011 2027 2006 2502 1979 2498 721 2512 689 2496 664"/></Shape></TextBlock><TextBlock HPOS="499" VPOS="321" WIDTH="897" HEIGHT="1679" ID="path2" TAGREFS="BT5"><Shape><Polygon POINTS="1373 341 1324 321 915 332 652 332 510 348 499 519 512 1432 501 1974 863 2000 1391 1991 1396 917"/></Shape></TextBlock><TextBlock HPOS="1376" VPOS="1774" WIDTH="85" HEIGHT="90" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="1376 1830 1390 1863 1420 1864 1461 1830 1439 1774 1392 1793 1378 1814"/></Shape></TextBlock><TextBlock HPOS="345" VPOS="1630" WIDTH="63" HEIGHT="65" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="408 1636 408 1677 345 1695 355 1648 401 1630"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

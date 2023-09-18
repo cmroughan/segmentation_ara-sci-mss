@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0079.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4053" HEIGHT="5478" PHYSICAL_IMG_NR="79" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4053" HEIGHT="5478">
+                      
+          <TextBlock HPOS="458" VPOS="297" WIDTH="211" HEIGHT="153" ID="path1" TAGREFS="BT8"><Shape><Polygon POINTS="493 297 458 427 544 450 669 391 642 297"/></Shape></TextBlock><TextBlock HPOS="728" VPOS="462" WIDTH="298" HEIGHT="156" ID="path2" TAGREFS="BT8"><Shape><Polygon POINTS="728 505 802 603 1006 618 1026 575 928 470 787 462"/></Shape></TextBlock><TextBlock HPOS="1257" VPOS="557" WIDTH="2493" HEIGHT="4215" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="1362 583 1585 557 3750 599 3683 4752 3445 4772 1574 4663 1424 4701 1307 4662 1275 4177 1257 3143"/></Shape></TextBlock><TextBlock HPOS="2958" VPOS="3135" WIDTH="1076" HEIGHT="1463" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="2993 4330 2958 4392 3046 4405 3089 4377 3688 4398 3688 4470 3781 4545 3878 4598 3943 4514 3878 4383 3978 4255 3996 4134 3984 4015 3906 3987 3965 3881 4034 3485 3949 3429 3959 3248 3905 3135 3715 3228 3696 3485 3744 3618 3710 3838 3676 3916 3701 3971 3694 4333"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0022.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3000" HEIGHT="2322" PHYSICAL_IMG_NR="22" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="2322">
+                      
+          <TextBlock HPOS="1635" VPOS="305" WIDTH="876" HEIGHT="1707" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2489 326 2393 311 2208 310 1986 305 1694 314 1642 705 1655 900 1639 941 1649 1178 1635 1528 1647 1905 1657 1963 1689 2003 1732 2005 1873 1991 1889 2012 2012 1983 2037 2001 2264 1962 2286 1979 2477 1954 2500 1908 2502 1503 2508 1200 2511 973 2497 658"/></Shape></TextBlock><TextBlock HPOS="1572" VPOS="1913" WIDTH="272" HEIGHT="267" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="1657 1913 1636 1920 1580 1984 1572 2040 1602 2148 1704 2180 1782 2090 1806 2101 1844 2083 1842 2019 1827 1983 1776 1990 1731 2001 1710 1991 1692 1995 1664 1966"/></Shape></TextBlock><TextBlock HPOS="490" VPOS="347" WIDTH="894" HEIGHT="1721" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="1361 352 1239 351 951 360 727 356 580 347 511 385 498 544 529 627 511 723 513 990 499 1354 517 1561 504 1735 517 1821 490 1979 515 2022 750 2060 969 2045 1206 2068 1302 2046 1361 2008 1366 1955 1358 1756 1375 1565 1375 1284 1380 947 1384 575 1383 453 1373 372"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

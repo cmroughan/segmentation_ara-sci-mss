@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0016.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="1733" HEIGHT="2271" PHYSICAL_IMG_NR="16" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="1733" HEIGHT="2271">
+                      
+          <TextBlock HPOS="462" VPOS="348" WIDTH="1060" HEIGHT="1571" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="1515 385 1140 366 995 364 724 382 642 364 584 348 535 374 507 421 494 789 508 1005 1022 1029 1010 1668 904 1657 568 1643 498 1702 462 1912 990 1919 1467 1900 1522 1882"/></Shape></TextBlock><TextBlock HPOS="1578" VPOS="1279" WIDTH="63" HEIGHT="78" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="1637 1279 1641 1344 1596 1357 1578 1351 1581 1287"/></Shape></TextBlock><TextBlock HPOS="488" VPOS="1040" WIDTH="527" HEIGHT="543" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="725 1062 737 1040 752 1043 751 1062 833 1072 916 1117 989 1199 1015 1296 1008 1386 974 1477 908 1540 807 1583 693 1579 583 1527 520 1453 488 1323 525 1186 621 1095"/></Shape></TextBlock><TextBlock HPOS="613" VPOS="1002" WIDTH="126" HEIGHT="75" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="613 1009 644 1002 697 1022 696 1033 739 1056 715 1077 616 1022"/></Shape></TextBlock><TextBlock HPOS="622" VPOS="1099" WIDTH="142" HEIGHT="97" ID="path5" TAGREFS="BT6"><Shape><Polygon POINTS="692 1099 625 1132 622 1151 633 1169 683 1196 735 1181 764 1147 703 1136"/></Shape></TextBlock><TextBlock HPOS="490" VPOS="1179" WIDTH="97" HEIGHT="149" ID="path6" TAGREFS="BT6"><Shape><Polygon POINTS="564 1182 581 1207 559 1256 585 1282 587 1296 563 1321 518 1328 490 1302 499 1290 491 1269 497 1258 514 1259 517 1228 529 1210 526 1189 537 1179"/></Shape></TextBlock><TextBlock HPOS="635" VPOS="1306" WIDTH="105" HEIGHT="98" ID="path7" TAGREFS="BT6"><Shape><Polygon POINTS="740 1325 739 1345 710 1368 688 1379 655 1400 643 1404 635 1363 658 1333 695 1327 723 1306"/></Shape></TextBlock><TextBlock HPOS="903" VPOS="1222" WIDTH="105" HEIGHT="138" ID="path8" TAGREFS="BT6"><Shape><Polygon POINTS="919 1239 960 1222 988 1224 998 1238 987 1279 1008 1285 1007 1315 987 1331 942 1346 920 1360 903 1336 913 1286"/></Shape></TextBlock><TextBlock HPOS="605" VPOS="1442" WIDTH="146" HEIGHT="63" ID="path9" TAGREFS="BT6"><Shape><Polygon POINTS="605 1456 645 1445 668 1442 698 1446 707 1462 732 1459 751 1462 740 1497 713 1505 674 1492 611 1478"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0031.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4130" HEIGHT="5427" PHYSICAL_IMG_NR="31" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4130" HEIGHT="5427">
+                      
+          <TextBlock HPOS="1278" VPOS="555" WIDTH="2531" HEIGHT="4219" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="3693 555 2936 583 1596 603 1336 612 1312 786 1297 1244 1302 2618 1278 4195 1336 4725 2657 4711 2773 4774 2830 4706 3293 4701 3761 4629 3809 3260 3737 1263 3727 651"/></Shape></TextBlock><TextBlock HPOS="280" VPOS="2504" WIDTH="158" HEIGHT="168" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="280 2569 319 2672 416 2667 438 2530 309 2504"/></Shape></TextBlock><TextBlock HPOS="278" VPOS="1252" WIDTH="134" HEIGHT="175" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="278 1296 283 1398 348 1427 412 1366 358 1252"/></Shape></TextBlock><TextBlock HPOS="409" VPOS="397" WIDTH="134" HEIGHT="114" ID="path4" TAGREFS="BT8"><Shape><Polygon POINTS="409 397 448 511 543 446 538 397"/></Shape></TextBlock><TextBlock HPOS="416" VPOS="190" WIDTH="190" HEIGHT="146" ID="path5" TAGREFS="BT8"><Shape><Polygon POINTS="416 336 492 190 606 241 602 329"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

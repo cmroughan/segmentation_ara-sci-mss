@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0047.tif</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="3000" HEIGHT="2312" PHYSICAL_IMG_NR="47" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="3000" HEIGHT="2312">
+                      
+          <TextBlock HPOS="1612" VPOS="313" WIDTH="932" HEIGHT="1710" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="2540 354 2453 313 1997 338 1944 320 1690 316 1641 354 1632 876 1612 1305 1635 1674 1628 1995 1652 2023 1844 2019 2139 2001 2451 1981 2530 1953 2544 1710"/></Shape></TextBlock><TextBlock HPOS="2652" VPOS="512" WIDTH="128" HEIGHT="97" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="2780 532 2768 575 2683 609 2666 601 2671 566 2652 565 2666 512 2712 536 2746 528"/></Shape></TextBlock><TextBlock HPOS="385" VPOS="304" WIDTH="983" HEIGHT="1697" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="1192 324 559 323 499 304 451 352 439 547 461 1026 415 1069 445 1096 418 1299 385 1346 442 1349 464 1591 440 1652 471 1861 441 1931 478 1991 926 1992 1021 2001 1318 1991 1354 1967 1368 320"/></Shape></TextBlock><TextBlock HPOS="700" VPOS="833" WIDTH="322" HEIGHT="55" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="1022 836 1006 869 871 881 782 874 771 882 701 888 700 854 726 847 792 838 887 844 959 836 1013 833"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>
