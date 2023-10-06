@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0069.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4886" HEIGHT="7200" PHYSICAL_IMG_NR="69" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4886" HEIGHT="7200">
+                      
+          <TextBlock HPOS="354" VPOS="258" WIDTH="318" HEIGHT="179" ID="path1" TAGREFS="BT8"><Shape><Polygon POINTS="354 285 405 423 492 437 672 391 575 258"/></Shape></TextBlock><TextBlock HPOS="4191" VPOS="750" WIDTH="281" HEIGHT="225" ID="path2" TAGREFS="BT8"><Shape><Polygon POINTS="4191 819 4233 966 4366 975 4467 888 4472 750"/></Shape></TextBlock><TextBlock HPOS="1210" VPOS="5585" WIDTH="2052" HEIGHT="299" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="3262 5884 3253 5751 3133 5622 3073 5631 3055 5751 2314 5751 2314 5677 2185 5645 2162 5728 1974 5732 1923 5613 1863 5617 1831 5714 1403 5714 1353 5585 1215 5645 1210 5797 1279 5824"/></Shape></TextBlock><TextBlock HPOS="892" VPOS="1054" WIDTH="3437" HEIGHT="4970" ID="path4" TAGREFS="BT5"><Shape><Polygon POINTS="4302 1141 3197 1081 2043 1054 1376 1063 1180 1182 892 2388 1142 2502 1088 3630 992 3695 997 3869 1128 3901 1027 4738 1041 5532 3235 5557 3222 5985 3763 6024 4329 5990"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

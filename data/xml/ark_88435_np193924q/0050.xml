@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0050.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4655" HEIGHT="7200" PHYSICAL_IMG_NR="50" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4655" HEIGHT="7200">
+                      
+          <TextBlock HPOS="158" VPOS="1033" WIDTH="3431" HEIGHT="5064" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="3432 1134 3300 1033 1685 1085 818 1120 565 1090 188 1134 158 1965 249 3878 293 6097 2044 6084 3458 6001 3589 4696 3515 2254"/></Shape></TextBlock><TextBlock HPOS="770" VPOS="950" WIDTH="224" HEIGHT="259" ID="path2" TAGREFS="BT6"><Shape><Polygon POINTS="770 989 890 1202 943 1209 994 1119 953 1002 894 950"/></Shape></TextBlock><TextBlock HPOS="3711" VPOS="1316" WIDTH="214" HEIGHT="220" ID="path3" TAGREFS="BT6"><Shape><Polygon POINTS="3925 1375 3879 1501 3755 1536 3711 1484 3785 1316"/></Shape></TextBlock><TextBlock HPOS="3516" VPOS="5773" WIDTH="908" HEIGHT="305" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="3574 5798 3516 6065 4186 6078 4399 6019 4424 5773 4174 5836"/></Shape></TextBlock><TextBlock HPOS="333" VPOS="6436" WIDTH="383" HEIGHT="250" ID="path5" TAGREFS="BT6"><Shape><Polygon POINTS="679 6436 716 6569 579 6657 342 6686 333 6552 462 6482"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

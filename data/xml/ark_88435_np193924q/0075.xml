@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0075.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4817" HEIGHT="7200" PHYSICAL_IMG_NR="75" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4817" HEIGHT="7200">
+                      
+          <TextBlock HPOS="260" VPOS="191" WIDTH="275" HEIGHT="218" ID="path1" TAGREFS="BT8"><Shape><Polygon POINTS="260 302 317 409 482 398 512 317 535 191 417 199"/></Shape></TextBlock><TextBlock HPOS="4232" VPOS="841" WIDTH="268" HEIGHT="218" ID="path2" TAGREFS="BT8"><Shape><Polygon POINTS="4469 841 4308 875 4232 929 4301 1059 4465 1040 4500 910"/></Shape></TextBlock><TextBlock HPOS="1093" VPOS="1942" WIDTH="2321" HEIGHT="703" ID="path3" TAGREFS="BT7"><Shape><Polygon POINTS="3391 1976 3414 2645 1093 2630 1204 2462 1204 2095 1265 1942"/></Shape></TextBlock><TextBlock HPOS="1051" VPOS="1105" WIDTH="3315" HEIGHT="5093" ID="path4" TAGREFS="BT5"><Shape><Polygon POINTS="4366 1250 4240 1204 2863 1139 1908 1105 1212 1189 1166 1365 1170 1835 1388 1911 2672 1900 3406 1869 3391 2026 3414 2791 1212 2860 1109 3292 1051 3911 1135 4217 1074 5119 1151 5241 1087 6172 2489 6198 4049 6113 4231 6171 4320 6075"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>

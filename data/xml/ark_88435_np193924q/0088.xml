@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/standards/alto/ns-v4#" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+      <Description>
+        <MeasurementUnit>pixel</MeasurementUnit>
+        <sourceImageInformation>
+          <fileName>0088.jpg</fileName>
+        </sourceImageInformation>
+      </Description>
+      
+      <Tags>
+        <OtherTag ID="BT5" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT6" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT7" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT8" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT9" LABEL="TableZone" DESCRIPTION="block type TableZone"/>
+        
+      </Tags>
+      
+      <Layout>
+        <Page WIDTH="4785" HEIGHT="7200" PHYSICAL_IMG_NR="88" ID="InSc_dummypage_">
+          <PrintSpace HPOS="0" VPOS="0" WIDTH="4785" HEIGHT="7200">
+                      
+          <TextBlock HPOS="469" VPOS="1024" WIDTH="3104" HEIGHT="490" ID="path1" TAGREFS="BT5"><Shape><Polygon POINTS="3573 1396 3542 1182 3359 1111 3292 1269 2217 1295 1916 1208 1911 1070 1208 1024 1121 1116 683 1101 535 1193 469 1356 744 1453 994 1432 1284 1514 1916 1453 2941 1417 3466 1453"/></Shape></TextBlock><TextBlock HPOS="1564" VPOS="1371" WIDTH="1662" HEIGHT="872" ID="path2" TAGREFS="BT5"><Shape><Polygon POINTS="3124 1442 3165 1932 3226 2090 2961 2237 2839 2243 2701 2237 2456 2139 1702 2206 1564 1804 1767 1479 2767 1371"/></Shape></TextBlock><TextBlock HPOS="365" VPOS="2086" WIDTH="3238" HEIGHT="4008" ID="path3" TAGREFS="BT5"><Shape><Polygon POINTS="3517 2120 2561 2129 1342 2094 732 2154 499 2086 370 2190 406 4617 371 4740 365 5330 428 6055 827 6093 1263 6094 2975 6056 3573 5999 3603 4230"/></Shape></TextBlock><TextBlock HPOS="570" VPOS="6165" WIDTH="218" HEIGHT="213" ID="path4" TAGREFS="BT6"><Shape><Polygon POINTS="742 6189 788 6258 779 6366 641 6378 570 6358 578 6236 644 6165"/></Shape></TextBlock></PrintSpace>
+        </Page>
+      </Layout>
+    </alto>
