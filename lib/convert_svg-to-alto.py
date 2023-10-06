@@ -9,8 +9,6 @@ to be used by eScriptorium, Kraken, and other layout analysis training tools.
 The SVG files must link to a relevant page image and contain vector polygons
 indicating the annotated regions.
 
-This script expects to be used from the main project directory.
-
 See documentation on the 'd' property of the <path> element for SVG files:
 https://www.w3.org/TR/SVG2/paths.html#TheDProperty
 
@@ -59,8 +57,8 @@ if len(sys.argv) != 3:
         print(f'- {a}')
     exit()
 
-xmlDirPath = Path('data/xml/')
-imgDirPath = Path('data/imgs-to-upload/')
+xmlDirPath = Path('../data/xml/')
+imgDirPath = Path('../data/imgs-to-upload/')
 msDir = sys.argv[1]
 typeDir = sys.argv[2]
 fullDirPath = imgDirPath / msDir / typeDir
@@ -161,7 +159,7 @@ for svgFile in svg_list:
     paths = g.findall('{http://www.w3.org/2000/svg}path')
     for path in paths:
         d = path.attrib['d']
-        label = path.attrib['{http://www.inkscape.org/namespaces/inkscape}label']
+        label = path.attrib['{http://www.inkscape.org/namespaces/inkscape}label'].strip()
         path_id = path.attrib['id']
 
         print(f"\rConverting: {svgFile}\t{path_id}", end="")
